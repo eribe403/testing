@@ -1,1 +1,3 @@
+fire
+
 print ("hi")
